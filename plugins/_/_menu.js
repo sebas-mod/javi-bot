@@ -160,7 +160,7 @@ END:VCARD`;
             return await conn.sendMessage(
                 m.chat,
                 {
-                    document: { url: "https://files.catbox.moe/syug0p.jpg" },
+                    document: { url: "https://qu.ax/kvwKr.jpg" },
                     mimetype: "application/pdf",
                     fileName: `🌸 ${global.config.watermark}`,
                     fileLength: 0,
@@ -173,7 +173,7 @@ END:VCARD`;
                             title: global.config.author,
                             body: subtitle,
                             mediaType: 1,
-                            thumbnailUrl: "https://files.catbox.moe/syug0p.jpg",
+                            thumbnailUrl: "https://qu.ax/kvwKr.jpg",
                             sourceUrl: global.config.website,
                             renderLargerThumbnail: true,
                         },
