@@ -365,7 +365,7 @@ let user = global.db.data.users[m.sender];
                                 body: global.config.watermark,
                                 mediaType: 1,
                                 thumbnailUrl:
-                                    "https://n.uguu.se/PfcBtCcJ.jpg",
+                                    "https://qu.ax/kvwKr.jpg",
                                 renderLargerThumbnail: true,
                             },
                         },
